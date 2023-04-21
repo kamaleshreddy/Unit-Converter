@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: 'Trebuchet MS';
+    background: gainsboro;
+}
+
+#container {
+    background: #2D63E1;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    height: 160px;
+}
+
+#input-txt {
+    width: 50px;
+    height: 30px;
+    background-color: #2D63E1;
+    border: 1.5px solid white;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-family: inherit;
+    margin-bottom: 18px;
+}
+
+.results {
+    height: 350px;
+    margin-top: 30px;
+}
+
+#units {
+    color: black;
+}
+
+#length, #volume, #mass{
+    border: 3px solid whitesmoke;
+    width: 500px;
+    border-radius: 5px;
+    background: whitesmoke;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
